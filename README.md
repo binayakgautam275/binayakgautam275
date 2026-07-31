@@ -12,9 +12,9 @@
 
 <br/><br/>
 
-### Co-Founder @ kkkahne | Agentic Engineer & System Architect | UI/UX Specialist
+### Co-Founder @ OMX Labs & kkkahne | Agentic Engineer | Full Stack & Mobile Developer | UI/UX Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=740&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Agentic+Engineer+directing+Claude+%26+Antigravity;Building+Project+Malgadi+for+the+Nepal+Market;Crafting+Intuitive+UI%2FUX+%26+Clean+Architecture;Building+Cross-Platform+Flutter+Apps+%26+Node.js+Backends)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=61AFEF&center=true&vCenter=true&width=760&lines=Co-Founder+@+OMX+Labs+%26+kkkahne;Agentic+Engineer+directing+Claude+%26+Antigravity;Full+Stack+%26+Cross-Platform+Mobile+Developer+(Flutter);Building+Project+Malgadi+for+the+Nepal+Market;UI%2FUX+Design+Specialist+%26+System+Architect)](https://git.io/typing-svg)
 
 <br/>
 
@@ -43,8 +43,8 @@
 
 ## About Me
 
-- **Identity**: **Binayak Gautam** — **Co-Founder** of **[kkkahne](https://www.kkkhane.com)**, **Agentic Engineer**, **System Architect**, **Full Stack Developer**, and **UI/UX Specialist**.
-- **Co-Founder @ [kkkahne](https://www.kkkhane.com)**: Leading product engineering for our enterprise **Restaurant & Hotel Management System** live at **[www.kkkhane.com](https://www.kkkhane.com)**.
+- **Identity**: **Binayak Gautam** — **Co-Founder** of **OMX Labs** & **[kkkahne](https://www.kkkhane.com)**, **Agentic Engineer**, **Full Stack Developer**, **Mobile App Developer**, and **UI/UX Specialist**.
+- **Co-Founder @ OMX Labs & [kkkahne](https://www.kkkhane.com)**: Leading technology innovation, product design, and software engineering for enterprise systems live at **[www.kkkhane.com](https://www.kkkhane.com)**.
 - **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)**: Building a cross-platform mobile application using **Flutter & Dart**, codenamed *Project Malgadi*, engineered for the **Nepal market**.
 - **Agentic Engineering**: Practicing a disciplined software development approach where I direct semi-autonomous AI coding agents (**Claude**, **Antigravity**) that write, execute, test, and refine production-grade code at maximum speed.
 - **Cloud Infrastructure**: Architecting serverless backend pipelines and real-time database deployments leveraging **Supabase** (Auth, Realtime, Postgres) and **Vercel**.
