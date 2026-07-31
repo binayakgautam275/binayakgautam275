@@ -18,7 +18,7 @@
 
 <br/>
 
-<!-- Glowing 3D Social Buttons -->
+<!-- Glowing Social Buttons -->
 <p align="center">
   <a href="https://github.com/binayakgautam275" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -40,23 +40,15 @@
 
 ## 🌌 About Me & Vision
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-
-👋 **Hi, I'm Binayak Gautam** — **Co-Founder** of **[kkkahne](https://github.com/binayakgautam275/kkkahne)**, **Agentic AI Engineer**, and **Full Stack Mobile/Web Developer**.
-
-- 👑 **Co-Founder @ kkkahne**: Leading product & technology for our enterprise **Restaurant & Hotel Management System**.
-- 🇳🇵 🤫 **Stealth Mobile App**: Building a revolutionary **Flutter & Dart** application designed specifically to capture and scale across the **Nepal market**.
-- 🤖 **Agentic AI Specialist**: Architecting **Autonomous AI Agents**, **Multi-Agent Orchestration**, **Model Context Protocol (MCP)**, and **RAG Pipeline Systems**.
-- 💻 **Engineering Stack**: Cross-platform **Flutter/Dart** mobile development coupled with resilient microservices on **NestJS, TypeScript, and PostgreSQL**.
-
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6cXR1b3V2Z2k4eHJxYmw0aTRuZ244cm42ODdvc2F0eWhxeXg4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4VPAIrvg/giphy.gif" width="100%" style="border-radius:12px;" alt="Coding Animation" />
-    </td>
-  </tr>
-</table>
+> 👋 **Hi, I'm Binayak Gautam** — **Co-Founder** of **[kkkahne](https://github.com/binayakgautam275/kkkahne)**, **Agentic AI Engineer**, and **Full Stack Developer** driven by building intelligent, scalable enterprise software.
+> 
+> 👑 **Co-Founder @ kkkahne**: Leading product & technology for our enterprise **Restaurant & Hotel Management System**.
+> 
+> 🇳🇵 🤫 **Stealth Mobile App**: Building a revolutionary **Flutter & Dart** application designed specifically to capture and scale across the **Nepal market**.
+> 
+> 🤖 **Agentic AI Specialist**: Architecting **Autonomous AI Agents**, **Multi-Agent Orchestration**, **Model Context Protocol (MCP)**, and **RAG Pipeline Systems**.
+> 
+> 💻 **Engineering Stack**: Cross-platform **Flutter/Dart** mobile development coupled with resilient microservices on **NestJS, TypeScript, and PostgreSQL**.
 
 <br/>
 
