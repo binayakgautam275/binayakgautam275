@@ -147,30 +147,13 @@
 
 ## GitHub Analytics
 
-<div align="center">
-
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=binayakgautam275&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="410" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binayakgautam275&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="410" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <!-- Flame Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binayakgautam275&theme=tokyonight&hide_border=true" alt="Streak Stats" width="830" />
-
-  <br/><br/>
-
-  <!-- Dynamic Activity Graph -->
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=binayakgautam275&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binayakgautam275&theme=tokyonight&hide_border=true" alt="Streak Stats" width="80%" />
+</p>
 
 <br/>
 
