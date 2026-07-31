@@ -12,9 +12,9 @@
 
 <br/><br/>
 
-### Co-Founder @ kkkahne | Full Stack Engineer & UI/UX Specialist
+### Co-Founder @ kkkahne | System Architect & Full Stack Engineer | UI/UX Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;AI-Assisted+Software+Architect+using+Claude;Building+Project+Malgadi+for+the+Nepal+Market;Crafting+Intuitive+UI%2FUX+%26+Clean+Architecture;Building+Cross-Platform+Flutter+Apps+%26+Node.js+Backends)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Software+Architect+coding+with+Claude+%26+Antigravity;Building+Project+Malgadi+for+the+Nepal+Market;Crafting+Intuitive+UI%2FUX+%26+Clean+Architecture;Building+Cross-Platform+Flutter+Apps+%26+Node.js+Backends)](https://git.io/typing-svg)
 
 <br/>
 
@@ -43,10 +43,10 @@
 
 ## About Me
 
-- **Identity**: **Binayak Gautam** — **Co-Founder** of **[kkkahne](https://www.kkkhane.com)**, **Full Stack Developer**, **UI/UX Specialist**, and **AI-Assisted Software Architect**.
+- **Identity**: **Binayak Gautam** — **Co-Founder** of **[kkkahne](https://www.kkkhane.com)**, **Software Architect**, **Full Stack Developer**, and **UI/UX Specialist**.
 - **Co-Founder @ [kkkahne](https://www.kkkhane.com)**: Leading product engineering for our enterprise **Restaurant & Hotel Management System** live at **[www.kkkhane.com](https://www.kkkhane.com)**.
 - **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)**: Building a cross-platform mobile application using **Flutter & Dart**, codenamed *Project Malgadi*, engineered for the **Nepal market**.
-- **AI-Assisted Development**: Leveraging advanced AI tools (**Claude**, **Antigravity**, **GPT-4**) to architect systems, generate clean production codebases, and accelerate software engineering workflows.
+- **Software Architecture & AI Coding**: Designing software architectures, database schemas, and system workflows, while leveraging **Claude** & **Antigravity** as AI coding partners to build scalable applications at maximum speed.
 - **Cloud Infrastructure**: Architecting serverless backend pipelines and real-time database deployments leveraging **Supabase** (Auth, Realtime, Postgres) and **Vercel**.
 - **UI/UX Design**: Designing user interfaces, wireframes, design systems, and responsive layouts using **Figma**, Tailwind CSS, and Flutter.
 - **Core Engineering**: Cross-platform mobile development with **Flutter/Dart** and backend microservices with **Node.js, TypeScript, PostgreSQL, and Supabase**.
@@ -64,11 +64,11 @@
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/Anthropic_Claude_%26_Antigravity-AI_Assisted_Software_Architecture-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI Architecture" />
+        <img src="https://img.shields.io/badge/Anthropic_Claude_%26_Antigravity-AI_Coding_%26_System_Architecture-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI Architecture" />
         <br/><br/>
-        <b>Anthropic Claude & Antigravity AI-Assisted Architecture</b>
+        <b>System Architecture & AI Coding with Claude & Antigravity</b>
         <br/>
-        <sub>Specialized in leveraging Claude 3.5 Sonnet and Antigravity workflows for high-speed software development</sub>
+        <sub>Specialized in designing software systems and leveraging Claude 3.5 Sonnet & Antigravity for high-speed coding</sub>
       </td>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/Flutter_%26_Dart-Certified_Mobile_Architect-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Certification" />
@@ -92,7 +92,7 @@
 
 <div align="center">
 
-### AI-Assisted Development & Tools
+### AI Coding Tools & Partners
 <p align="center">
   <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
   <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
