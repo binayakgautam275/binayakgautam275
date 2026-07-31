@@ -42,7 +42,7 @@
 - **Agentic Engineering**: Practicing a disciplined software development approach where I direct semi-autonomous AI coding agents (**Claude**, **Antigravity**) that write, execute, test, and refine production-grade code at maximum speed.
 - **Cloud Infrastructure**: Architecting serverless backend pipelines and real-time database deployments leveraging **Supabase** (Auth, Realtime, Postgres) and **Vercel**.
 - **UI/UX Design**: Designing user interfaces, wireframes, design systems, and responsive layouts using **Figma**, Tailwind CSS, and Flutter.
-- **Core Engineering**: Cross-platform mobile development with **Flutter/Dart** and backend microservices with **Node.js, TypeScript, PostgreSQL, and Supabase**.
+- **Core Engineering**: Cross-Platform mobile development with **Flutter/Dart** and backend microservices with **Node.js, TypeScript, PostgreSQL, and Supabase**.
 
 <br/>
 
@@ -56,6 +56,31 @@
 - **Impactful Software for Nepal & Beyond**: Dedicated to building innovative applications and platforms that transform daily life and empower communities in Nepal while scaling globally.
 - **Building the Largest IT & AI Company**: Leading **OMX Labs** alongside my team to establish Nepal’s largest and most innovative IT enterprise focused on AI-driven software architecture.
 - **AI-Powered Innovation**: Harnessing cutting-edge AI technologies and modern software engineering to solve complex real-world challenges with fresh, game-changing concepts.
+
+<br/>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+
+<br/>
+
+## Official Courses & Certifications
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td align="center" width="100%">
+        <a href="https://www.anthropic.com/claude" target="_blank">
+          <img src="https://img.shields.io/badge/Anthropic-Interactive_Prompt_Engineering_%26_Claude_3.5_Sonnet-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude Interactive Prompt Engineering" />
+        </a>
+        <br/><br/>
+        <b><a href="https://www.anthropic.com/claude" target="_blank">Anthropic Educational: Interactive Prompt Engineering & Agent Architecture</a></b>
+        <br/>
+        <sub>Official Anthropic specialization covering Claude 3.5 Sonnet System Prompts, Tool Calling (MCP), Complex Reasoning, and Agent Workflows</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
