@@ -129,14 +129,6 @@
 
 <br/>
 
-<!-- Animated Contribution Snake -->
-<div align="center">
-  <h3>🐍 GitHub Contribution Grid Animation</h3>
-  <img src="https://raw.githubusercontent.com/binayakgautam275/binayakgautam275/main/github-user-contribution.svg" alt="Snake Animation" width="100%" onerror="this.src='https://svg.template-snake.workers.dev/binayakgautam275';" />
-</div>
-
-<br/>
-
 <!-- Animated Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 
