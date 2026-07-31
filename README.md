@@ -56,7 +56,7 @@
 
 ## Mission & Future Vision
 
-- **2084 BS — Empowering the People of Nepal**: Developing next-generation, high-impact mobile applications designed so the people of Nepal can experience next-level digital transformation by **2084 BS** — marking a historic milestone for me, my team at OMX Labs, and the nation! 🇳🇵🚀
+- **2084 BS — Next-Level Digital Experience for Nepal**: Engineering next-generation software and mobile applications so people across Nepal can experience great, next-level innovation by **2084 BS** — marking a historic milestone for me, my team at OMX Labs, and the nation! 🇳🇵🚀
 - **Impactful Software for Nepal & Beyond**: Dedicated to building innovative applications and platforms that transform daily life and empower communities in Nepal while scaling globally.
 - **Building the Largest IT & AI Company**: Leading **OMX Labs** alongside my team to establish Nepal’s largest and most innovative IT enterprise focused on AI-driven software architecture.
 - **AI-Powered Innovation**: Harnessing cutting-edge AI technologies and modern software engineering to solve complex real-world challenges with fresh, game-changing concepts.
