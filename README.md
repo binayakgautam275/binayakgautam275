@@ -1,24 +1,24 @@
 <div align="center">
 
-<!-- 3D Animated Top Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,45,10,40,70&height=250&section=header&text=✨%20BINAYAK%20GAUTAM%20✨&fontSize=42&animation=twinkling&fontColor=ffffff" width="100%" alt="Header Banner" />
+<!-- Clean Animated Top Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,45,10,40,70&height=220&section=header&text=BINAYAK%20GAUTAM&fontSize=40&fontColor=ffffff" width="100%" alt="Header Banner" />
 
 <br/>
 
-<!-- 3D Trophies Header -->
+<!-- GitHub Trophies Header -->
 <a href="https://github.com/binayakgautam275">
   <img src="https://github-profile-trophy.vercel.app/?username=binayakgautam275&theme=dracula&no-frame=true&no-bg=true&column=6&margin-w=15" alt="GitHub Trophies" />
 </a>
 
 <br/><br/>
 
-### ⚡ Agentic AI & Full Stack Engineer | UI/UX Design Specialist ⚡
+### Co-Founder @ kkkahne | Agentic AI & Full Stack Engineer | UI/UX Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Building+Project+Malgadi+to+Capture+Nepal+Market+%F0%9F%87%B3%F0%9F%87%B5;Certified+Claude+Agentic+AI+Architect;Cloud+Excellence+with+Supabase+%26+Vercel;Crafting+Intuitive+UI%2FUX+%26+Pixel-Perfect+Experiences;Building+Cross-Platform+Flutter+Apps+%26+NestJS+Backends;Passionate+about+Clean+Architecture+%26+AI+Innovation+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Building+Project+Malgadi+for+the+Nepal+Market;Agentic+AI+Architect+%26+System+Engineer;Crafting+Intuitive+UI%2FUX+%26+Clean+Architecture;Building+Cross-Platform+Flutter+Apps+%26+NestJS+Backends)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Glowing Social Buttons -->
+<!-- Quick Social Links -->
 <p align="center">
   <a href="https://www.kkkhane.com" target="_blank">
     <img src="https://img.shields.io/badge/kkkhane.com-FF6F61?style=for-the-badge&logo=googlechrome&logoColor=white" alt="kkkhane Website" />
@@ -34,31 +34,31 @@
   </a>
 </p>
 
-<!-- Animated Glowing Divider -->
+<!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 
 </div>
 
 <br/>
 
-## 🌌 About Me & Vision
+## About Me
 
-- **Identity**: **Binayak Gautam** — **Co-Founder** of **[kkkahne](https://www.kkkhane.com)**, **Agentic AI & Software Architect**, **Full Stack Developer**, and **UI/UX Design Specialist**.
-- **Co-Founder @ [kkkahne](https://www.kkkhane.com)**: Leading product design & technology for our enterprise **Restaurant & Hotel Management System** live at **[www.kkkhane.com](https://www.kkkhane.com)**.
-- **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)**: Building a revolutionary cross-platform mobile application using **Flutter & Dart**, codenamed *Project Malgadi*, engineered specifically to capture and scale across the **Nepal market**!
-- **Cloud & Database Excellence**: Building scalable serverless infrastructures, real-time database architecture, and edge deployments leveraging **Supabase** (Auth, Realtime, Postgres) and **Vercel** serverless pipelines.
-- **Agentic AI & System Architecture**: Harnessing cutting-edge AI models (**Claude**, **GPT-4**, **DeepSeek**) and agentic workflows to design complex software architectures, orchestrate automated development, and accelerate production engineering.
-- **UI/UX Design Expert**: Crafting pixel-perfect user interfaces, wireframes, component design systems, and user-centric interactions using **Figma**, modern CSS/Tailwind, and Flutter UI architecture.
-- **Engineering Stack**: Cross-platform **Flutter/Dart** mobile development coupled with resilient microservices on **NestJS, TypeScript, PostgreSQL, and Supabase**.
+- **Identity**: **Binayak Gautam** — **Co-Founder** of **[kkkahne](https://www.kkkhane.com)**, **Agentic AI Architect**, **Full Stack Developer**, and **UI/UX Specialist**.
+- **Co-Founder @ [kkkahne](https://www.kkkhane.com)**: Leading product engineering for our enterprise **Restaurant & Hotel Management System** live at **[www.kkkhane.com](https://www.kkkhane.com)**.
+- **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)**: Building a cross-platform mobile application using **Flutter & Dart**, codenamed *Project Malgadi*, engineered for the **Nepal market**.
+- **Cloud Infrastructure**: Architecting serverless backend pipelines and real-time database deployments leveraging **Supabase** (Auth, Realtime, Postgres) and **Vercel**.
+- **Agentic AI & System Architecture**: Designing AI workflows, system prompts, tool integration (MCP), and agentic pipelines using models like **Claude** and **GPT-4**.
+- **UI/UX Design**: Designing user interfaces, wireframes, design systems, and responsive layouts using **Figma**, Tailwind CSS, and Flutter.
+- **Core Engineering**: Cross-platform mobile development with **Flutter/Dart** and backend microservices with **NestJS, TypeScript, PostgreSQL, and Supabase**.
 
 <br/>
 
-<!-- Animated Glowing Divider -->
+<!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 
 <br/>
 
-## 📜 Certifications & Specializations
+## Certifications & Specializations
 
 <div align="center">
   <table border="0">
@@ -66,14 +66,14 @@
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/Anthropic_Claude-Certified_Agentic_AI_Architect-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI Certification" />
         <br/><br/>
-        <b>🏆 Anthropic Claude Agentic AI & Prompt Architecture</b>
+        <b>Anthropic Claude Agentic AI & System Architecture</b>
         <br/>
         <sub>Specialized in Claude 3.5 Sonnet, Tool Calling, System Prompt Engineering, and Multi-Agent Orchestration</sub>
       </td>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/Flutter_%26_Dart-Certified_Mobile_Architect-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Certification" />
         <br/><br/>
-        <b>📱 Flutter & Cross-Platform Mobile Engineering</b>
+        <b>Flutter & Cross-Platform Mobile Engineering</b>
         <br/>
         <sub>Specialized in Clean Architecture, BLoC State Management & Enterprise Mobile Systems</sub>
       </td>
@@ -83,16 +83,16 @@
 
 <br/>
 
-<!-- Animated Glowing Divider -->
+<!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 
 <br/>
 
-## 🛠️ 3D Tech Stack & Arsenal
+## Tech Stack & Tools
 
 <div align="center">
 
-### 🤖 Agentic AI & AI-Assisted Architecture
+### Agentic AI & AI-Assisted Architecture
 <p align="center">
   <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
   <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPT-4" />
@@ -104,14 +104,14 @@
 
 <br/><br/>
 
-### 🎨 UI/UX Design & Frontend Excellence
+### UI/UX Design & Frontend
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=figma,flutter,dart,ts,js,react,nextjs,html,css,tailwind&theme=dark" alt="UI UX & Frontend Stack" />
 </a>
 
 <br/><br/>
 
-### 🗄️ Backend & Databases
+### Backend & Databases
 <p align="center">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -124,7 +124,7 @@
 
 <br/><br/>
 
-### ☁️ DevOps & Cloud Infrastructure
+### DevOps & Infrastructure
 <p align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -139,12 +139,12 @@
 
 <br/>
 
-<!-- Animated Glowing Divider -->
+<!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 
 <br/>
 
-## 📊 Live Analytics & Activity Dashboard
+## GitHub Analytics
 
 <div align="center">
 
@@ -173,25 +173,21 @@
 
 <br/>
 
-<!-- Animated Glowing Divider -->
+<!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack | Live Links |
 | :--- | :--- | :--- | :---: |
-| 🏨 **[kkkahne](https://www.kkkhane.com)** | Complete Restaurant & Hotel Management Software with automated POS billing, bookings & inventory. | `Flutter` `TypeScript` `NestJS` `Supabase` `PostgreSQL` | [🌐 Live Website](https://www.kkkhane.com) • [🔗 Code](https://github.com/binayakgautam275/kkkahne) |
-| 📱 **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)** | Next-gen mobile app engineered with Flutter & Dart to capture and scale across the Nepal market. | `Flutter` `Dart` `NestJS` `PostgreSQL` | [🔗 View Code](https://github.com/binayakgautam275/Project-malgadi) |
+| **[kkkahne](https://www.kkkhane.com)** | Complete Restaurant & Hotel Management Software with automated POS billing, bookings & inventory. | `Flutter` `TypeScript` `NestJS` `Supabase` `PostgreSQL` | [Live Website](https://www.kkkhane.com) • [Code](https://github.com/binayakgautam275/kkkahne) |
+| **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)** | Mobile application engineered with Flutter & Dart for the Nepal market. | `Flutter` `Dart` `NestJS` `PostgreSQL` | [View Code](https://github.com/binayakgautam275/Project-malgadi) |
 
 <br/>
 
-## 🤝 Connect with Me
-
-<p align="center">
-  📬 <b>Let's build something extraordinary together!</b>
-</p>
+## Connect
 
 <p align="center">
   <a href="https://www.kkkhane.com" target="_blank">
@@ -211,7 +207,7 @@
 ---
 
 <div align="center">
-  <sub>Designed with 🔥 & ❤️ by Binayak Gautam • Star ⭐ my repositories if you find them inspiring!</sub>
+  <sub>Binayak Gautam</sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,45,10,40,70&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
