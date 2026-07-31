@@ -19,8 +19,11 @@
   <a href="https://github.com/binayakgautam275" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:gautambinaytak111@gmail.com">
+  <a href="mailto:gutambinayak111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/binayak__275" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://linkedin.com/in/binayakgautam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -71,10 +74,10 @@
     <tr>
       <td align="center" width="100%">
         <a href="https://www.anthropic.com/claude" target="_blank">
-          <img src="https://img.shields.io/badge/Anthropic-Interactive_Prompt_Engineering_%26_Claude_3.5_Sonnet-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude Interactive Prompt Engineering" />
+          <img src="https://img.shields.io/badge/Anthropic_Academy-Interactive_Prompt_Engineering_%26_Claude_3.5_Sonnet-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Academy Prompt Engineering" />
         </a>
         <br/><br/>
-        <b><a href="https://www.anthropic.com/claude" target="_blank">Anthropic Educational: Interactive Prompt Engineering & Agent Architecture</a></b>
+        <b><a href="https://www.anthropic.com/claude" target="_blank">Anthropic Academy: Interactive Prompt Engineering & Agent Architecture</a></b>
         <br/>
         <sub>Official Anthropic specialization covering Claude 3.5 Sonnet System Prompts, Tool Calling (MCP), Complex Reasoning, and Agent Workflows</sub>
       </td>
@@ -174,8 +177,11 @@
   <a href="https://www.kkkhane.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-kkkhane.com-FF6F61?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
-  <a href="mailto:gautambinaytak111@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gautambinaytak111%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:gutambinayak111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gutambinayak111%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/binayak__275" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-binayak____275-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://linkedin.com/in/binayakgautam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Binayak_Gautam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
