@@ -58,26 +58,21 @@
 
 <br/>
 
-## 🛠️ 3D Tech Stack & Arsenal
+## 🛠️ Tech Stack & Featured Platforms
 
 <div align="center">
 
-### ☁️ Cloud, Serverless & Infrastructure
+### ⚡ Featured Platforms & Core Technologies
 <p align="center">
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPT-4" />
 </p>
 
 <br/>
 
 ### 🤖 Agentic AI & AI-Assisted Architecture
-<p align="center">
-  <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
-  <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPT-4" />
-  <img src="https://img.shields.io/badge/Agentic_Workflows-00F0FF?style=for-the-badge&logo=ai&logoColor=black" alt="Agentic Workflows" />
-</p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,openai,postman,docker,vscode&theme=dark" alt="Agentic AI Tech Stack" />
 </a>
@@ -91,7 +86,7 @@
 
 <br/><br/>
 
-### ⚙️ Backend, Databases & DevOps
+### ⚙️ Backend, Cloud & Databases
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=supabase,vercel,nestjs,nodejs,express,postgres,mongodb,firebase,git,github&theme=dark" alt="Backend Tech Stack" />
 </a>
