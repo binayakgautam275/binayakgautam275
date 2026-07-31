@@ -94,10 +94,10 @@
 
 ### Agentic AI & AI-Assisted Architecture
 <p align="center">
-  <img src="https://img.shields.io/badge/Antigravity-Google_Agentic_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity AI" />
-  <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity AI" />
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
   <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPT-4" />
-  <img src="https://img.shields.io/badge/Agentic_Workflows-00F0FF?style=for-the-badge&logo=ai&logoColor=black" alt="Agentic Workflows" />
+  <img src="https://img.shields.io/badge/Agentic_AI-00F0FF?style=for-the-badge&logo=ai&logoColor=black" alt="Agentic AI" />
 </p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,openai,postman,docker,vscode&theme=dark" alt="Agentic AI Tech Stack" />
