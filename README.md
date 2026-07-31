@@ -14,7 +14,7 @@
 
 ### ⚡ Agentic AI & Full Stack Engineer | UI/UX Design Specialist ⚡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Crafting+Intuitive+UI%2FUX+%26+Pixel-Perfect+Experiences;Building+Stealth+Mobile+App+to+Capture+Nepal+Market+%F0%9F%87%B3%F0%9F%87%B5;Architecting+Autonomous+AI+Agents+%26+Agentic+Workflows;Building+Cross-Platform+Flutter+Apps+%26+NestJS+Backends;Passionate+about+Clean+Architecture+%26+AI+Innovation+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Building+Project+Malgadi+to+Capture+Nepal+Market+%F0%9F%87%B3%F0%9F%87%B5;Crafting+Intuitive+UI%2FUX+%26+Pixel-Perfect+Experiences;Architecting+Autonomous+AI+Agents+%26+Agentic+Workflows;Building+Cross-Platform+Flutter+Apps+%26+NestJS+Backends;Passionate+about+Clean+Architecture+%26+AI+Innovation+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
@@ -42,11 +42,11 @@
 
 > 👋 **Hi, I'm Binayak Gautam** — **Co-Founder** of **[kkkahne](https://github.com/binayakgautam275/kkkahne)**, **Agentic AI Engineer**, **Full Stack Developer**, and **UI/UX Design Specialist** driven by crafting seamless user experiences and intelligent enterprise software.
 > 
-> 🎨 **UI/UX Design Expert**: Crafting pixel-perfect user interfaces, wireframes, component design systems, and user-centric interactions using **Figma**, modern CSS/Tailwind, and Flutter UI architecture.
-> 
 > 👑 **Co-Founder @ kkkahne**: Leading product design & technology for our enterprise **Restaurant & Hotel Management System**.
 > 
-> 🇳🇵 🤫 **Stealth Mobile App**: Designing and building a revolutionary **Flutter & Dart** application engineered specifically to capture and scale across the **Nepal market**.
+> 🇳🇵 📱 **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)**: Building a revolutionary cross-platform mobile application using **Flutter & Dart**, codenamed *Project Malgadi*, engineered specifically to capture and scale across the **Nepal market**!
+> 
+> 🎨 **UI/UX Design Expert**: Crafting pixel-perfect user interfaces, wireframes, component design systems, and user-centric interactions using **Figma**, modern CSS/Tailwind, and Flutter UI architecture.
 > 
 > 🤖 **Agentic AI Specialist**: Architecting **Autonomous AI Agents**, **Multi-Agent Orchestration**, **Model Context Protocol (MCP)**, and **RAG Pipeline Systems**.
 > 
@@ -135,11 +135,10 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Status / Repository |
+| Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| 🇳🇵 🤫 **Stealth Mobile App** | *(In Active Development)* Next-gen Flutter/Dart app engineered to capture & transform the Nepal market. | `Flutter` `Dart` `REST API` | 🚀 *Stealth Mode* |
+| 📱 **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)** | Next-gen mobile app engineered with Flutter & Dart to capture and scale across the Nepal market. | `Flutter` `Dart` `NestJS` `PostgreSQL` | [🔗 View Code](https://github.com/binayakgautam275/Project-malgadi) |
 | 🏨 **[kkkahne](https://github.com/binayakgautam275/kkkahne)** | Restaurant & Hotel Management Software with automated POS billing, bookings & inventory. | `Flutter` `TypeScript` `NestJS` `PostgreSQL` | [🔗 View Code](https://github.com/binayakgautam275/kkkahne) |
-| 🛒 **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)** | Full-stack monorepo featuring a Flutter mobile application & NestJS backend services. | `Flutter` `Dart` `NestJS` `PostgreSQL` | [🔗 View Code](https://github.com/binayakgautam275/Project-malgadi) |
 
 <br/>
 
