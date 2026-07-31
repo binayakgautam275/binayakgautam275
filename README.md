@@ -56,6 +56,7 @@
 
 ## Mission & Future Vision
 
+- **2084 BS — A Transformational Year for Nepal**: Engineering next-level, futuristic digital ecosystems and revolutionary applications that all of Nepal will experience in **2084 BS** — marking a defining, next-level milestone for me, my team at OMX Labs, and the entire nation! 🇳🇵🚀
 - **Impactful Software for Nepal & Beyond**: Dedicated to building innovative applications and platforms that transform daily life and empower communities in Nepal while scaling globally.
 - **Building the Largest IT & AI Company**: Leading **OMX Labs** alongside my team to establish Nepal’s largest and most innovative IT enterprise focused on AI-driven software architecture.
 - **AI-Powered Innovation**: Harnessing cutting-edge AI technologies and modern software engineering to solve complex real-world challenges with fresh, game-changing concepts.
