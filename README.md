@@ -93,14 +93,8 @@
 <div align="center">
 
 ### Agentic AI & AI-Assisted Architecture
-<p align="center">
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity AI" />
-  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
-  <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPT-4" />
-  <img src="https://img.shields.io/badge/Agentic_AI-00F0FF?style=for-the-badge&logo=ai&logoColor=black" alt="Agentic AI" />
-</p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,openai,postman,docker,vscode&theme=dark" alt="Agentic AI Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,openai,vscode,docker,postman&theme=dark" alt="Agentic AI Tech Stack" />
 </a>
 
 <br/><br/>
@@ -113,12 +107,6 @@
 <br/><br/>
 
 ### Backend & Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,supabase,postgres,mongodb,firebase&theme=dark" alt="Backend and Database Stack" />
 </a>
@@ -126,12 +114,6 @@
 <br/><br/>
 
 ### DevOps & Infrastructure
-<p align="center">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vercel,docker,git,github&theme=dark" alt="DevOps and Cloud Stack" />
 </a>
