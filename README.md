@@ -93,6 +93,12 @@
 <div align="center">
 
 ### Agentic AI & AI-Assisted Architecture
+<p align="center">
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
+  <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPT-4" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,openai,vscode,docker,postman&theme=dark" alt="Agentic AI Tech Stack" />
 </a>
@@ -100,6 +106,15 @@
 <br/><br/>
 
 ### UI/UX Design & Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+</p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=figma,flutter,dart,ts,js,react,nextjs,html,css,tailwind&theme=dark" alt="UI UX & Frontend Stack" />
 </a>
@@ -107,13 +122,27 @@
 <br/><br/>
 
 ### Backend & Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,supabase,postgres,mongodb,firebase&theme=dark" alt="Backend and Database Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,supabase,postgres,mongodb,firebase&theme=dark" alt="Backend and Database Stack" />
 </a>
 
 <br/><br/>
 
 ### DevOps & Infrastructure
+<p align="center">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vercel,docker,git,github&theme=dark" alt="DevOps and Cloud Stack" />
 </a>
