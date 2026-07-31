@@ -12,9 +12,9 @@
 
 <br/><br/>
 
-### Co-Founder @ kkkahne | Agentic AI & Full Stack Engineer | UI/UX Specialist
+### Co-Founder @ kkkahne | Agentic AI Architect | Full Stack Engineer | UI/UX Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Building+Project+Malgadi+for+the+Nepal+Market;Agentic+AI+Architect+with+Antigravity+%26+Claude;Crafting+Intuitive+UI%2FUX+%26+Clean+Architecture;Building+Cross-Platform+Flutter+Apps+%26+NestJS+Backends)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Building+Project+Malgadi+for+the+Nepal+Market;Agentic+AI+Architect+with+Antigravity+%26+Claude;Crafting+Intuitive+UI%2FUX+%26+Clean+Architecture;Building+Cross-Platform+Flutter+Apps+%26+Node.js+Backends)](https://git.io/typing-svg)
 
 <br/>
 
@@ -49,7 +49,7 @@
 - **Cloud Infrastructure**: Architecting serverless backend pipelines and real-time database deployments leveraging **Supabase** (Auth, Realtime, Postgres) and **Vercel**.
 - **Agentic AI & System Architecture**: Harnessing cutting-edge AI models (**Claude**, **GPT-4**, **DeepSeek**) and agentic development systems (**Antigravity**) to design complex software architectures, orchestrate automated workflows, and accelerate production engineering.
 - **UI/UX Design**: Designing user interfaces, wireframes, design systems, and responsive layouts using **Figma**, Tailwind CSS, and Flutter.
-- **Core Engineering**: Cross-platform mobile development with **Flutter/Dart** and backend microservices with **NestJS, TypeScript, PostgreSQL, and Supabase**.
+- **Core Engineering**: Cross-platform mobile development with **Flutter/Dart** and backend microservices with **Node.js, TypeScript, PostgreSQL, and Supabase**.
 
 <br/>
 
@@ -95,7 +95,7 @@
 ### Agentic AI & AI-Assisted Architecture
 <p align="center">
   <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
   <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPT-4" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
@@ -124,8 +124,6 @@
 ### Backend & Databases
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
