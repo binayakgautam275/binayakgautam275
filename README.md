@@ -49,7 +49,7 @@
 - **Cloud & Database Excellence**: Building scalable serverless infrastructures, real-time database architecture, and edge deployments leveraging **Supabase** (Auth, Realtime, Postgres) and **Vercel** serverless pipelines.
 - **Agentic AI & System Architecture**: Harnessing cutting-edge AI models (**Claude**, **GPT-4**, **DeepSeek**) and agentic workflows to design complex software architectures, orchestrate automated development, and accelerate production engineering.
 - **UI/UX Design Expert**: Crafting pixel-perfect user interfaces, wireframes, component design systems, and user-centric interactions using **Figma**, modern CSS/Tailwind, and Flutter UI architecture.
-- **Engineering Stack**: Cross-platform **Flutter/Dart** mobile development coupled with resilient microservices on **Node.js, Express.js, NestJS, TypeScript, PostgreSQL, and Supabase**.
+- **Engineering Stack**: Cross-platform **Flutter/Dart** mobile development coupled with resilient microservices on **NestJS, TypeScript, PostgreSQL, and Supabase**.
 
 <br/>
 
@@ -113,16 +113,13 @@
 
 ### 🗄️ Backend & Databases
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,supabase,postgres,mongodb,firebase&theme=dark" alt="Backend and Database Stack" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,supabase,postgres,mongodb,firebase&theme=dark" alt="Backend and Database Stack" />
 </a>
 
 <br/><br/>
