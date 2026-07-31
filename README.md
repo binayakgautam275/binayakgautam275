@@ -158,6 +158,21 @@
 
 <br/>
 
+## Achievements
+
+<div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/GitHub_Achievement-Pull_Shark_x2-00F0FF?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Achievement" />
+  </p>
+</div>
+
+<br/>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+
+<br/>
+
 ## Featured Projects
 
 | Project | Description | Tech Stack | Live Links |
