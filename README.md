@@ -158,19 +158,6 @@
 
 <br/>
 
-## GitHub Activity & Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=binayakgautam275&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</p>
-
-<br/>
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
-
-<br/>
-
 ## Achievements
 
 <div align="center">
