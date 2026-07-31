@@ -44,7 +44,7 @@
 ## About Me
 
 - **Identity**: **Binayak Gautam** — **Co-Founder** of **OMX Labs** & **[kkkahne](https://www.kkkhane.com)**, **Agentic Engineer**, **Full Stack Developer**, **Mobile App Developer**, and **UI/UX Specialist**.
-- **Co-Founder @ OMX Labs & [kkkahne](https://www.kkkhane.com)**: Leading technology innovation, product design, and software engineering for enterprise systems live at **[www.kkkhane.com](https://www.kkkhane.com)**.
+- **Co-Founder @ OMX Labs & [kkkahne](https://www.kkkhane.com)**: Leading product engineering for **[kkkahne](https://www.kkkhane.com)** — a **modern Hotel & Restaurant Management System** with automated POS billing, real-time table management, and booking analytics live at **[www.kkkhane.com](https://www.kkkhane.com)**.
 - **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)**: Building a cross-platform mobile application using **Flutter & Dart**, codenamed *Project Malgadi*, engineered for the **Nepal market**.
 - **Agentic Engineering**: Practicing a disciplined software development approach where I direct semi-autonomous AI coding agents (**Claude**, **Antigravity**) that write, execute, test, and refine production-grade code at maximum speed.
 - **Cloud Infrastructure**: Architecting serverless backend pipelines and real-time database deployments leveraging **Supabase** (Auth, Realtime, Postgres) and **Vercel**.
@@ -175,7 +175,7 @@
 
 | Project | Description | Tech Stack | Live Links |
 | :--- | :--- | :--- | :---: |
-| **[kkkahne](https://www.kkkhane.com)** | Complete Restaurant & Hotel Management Software with automated POS billing, bookings & inventory. | `Flutter` `TypeScript` `NestJS` `Supabase` `PostgreSQL` | [Live Website](https://www.kkkhane.com) • [Code](https://github.com/binayakgautam275/kkkahne) |
+| **[kkkahne](https://www.kkkhane.com)** | Modern Hotel & Restaurant Management System with automated POS billing, bookings & inventory. | `Flutter` `TypeScript` `NestJS` `Supabase` `PostgreSQL` | [Live Website](https://www.kkkhane.com) • [Code](https://github.com/binayakgautam275/kkkahne) |
 | **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)** | Mobile application engineered with Flutter & Dart for the Nepal market. | `Flutter` `Dart` `NestJS` `PostgreSQL` | [View Code](https://github.com/binayakgautam275/Project-malgadi) |
 
 <br/>
