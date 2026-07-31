@@ -12,9 +12,9 @@
 
 <br/><br/>
 
-### ⚡ Agentic AI Engineer & Co-Founder @ kkkahne ⚡
+### ⚡ Agentic AI & Full Stack Engineer | UI/UX Design Specialist ⚡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Building+Stealth+Mobile+App+to+Capture+Nepal+Market+%F0%9F%87%B3%F0%9F%87%B5;Architecting+Autonomous+AI+Agents+%26+Agentic+Workflows;Building+Cross-Platform+Flutter+Apps+%26+NestJS+Backends;Passionate+about+Clean+Architecture+%26+AI+Innovation+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Crafting+Intuitive+UI%2FUX+%26+Pixel-Perfect+Experiences;Building+Stealth+Mobile+App+to+Capture+Nepal+Market+%F0%9F%87%B3%F0%9F%87%B5;Architecting+Autonomous+AI+Agents+%26+Agentic+Workflows;Building+Cross-Platform+Flutter+Apps+%26+NestJS+Backends;Passionate+about+Clean+Architecture+%26+AI+Innovation+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
@@ -40,11 +40,13 @@
 
 ## 🌌 About Me & Vision
 
-> 👋 **Hi, I'm Binayak Gautam** — **Co-Founder** of **[kkkahne](https://github.com/binayakgautam275/kkkahne)**, **Agentic AI Engineer**, and **Full Stack Developer** driven by building intelligent, scalable enterprise software.
+> 👋 **Hi, I'm Binayak Gautam** — **Co-Founder** of **[kkkahne](https://github.com/binayakgautam275/kkkahne)**, **Agentic AI Engineer**, **Full Stack Developer**, and **UI/UX Design Specialist** driven by crafting seamless user experiences and intelligent enterprise software.
 > 
-> 👑 **Co-Founder @ kkkahne**: Leading product & technology for our enterprise **Restaurant & Hotel Management System**.
+> 🎨 **UI/UX Design Expert**: Crafting pixel-perfect user interfaces, wireframes, component design systems, and user-centric interactions using **Figma**, modern CSS/Tailwind, and Flutter UI architecture.
 > 
-> 🇳🇵 🤫 **Stealth Mobile App**: Building a revolutionary **Flutter & Dart** application designed specifically to capture and scale across the **Nepal market**.
+> 👑 **Co-Founder @ kkkahne**: Leading product design & technology for our enterprise **Restaurant & Hotel Management System**.
+> 
+> 🇳🇵 🤫 **Stealth Mobile App**: Designing and building a revolutionary **Flutter & Dart** application engineered specifically to capture and scale across the **Nepal market**.
 > 
 > 🤖 **Agentic AI Specialist**: Architecting **Autonomous AI Agents**, **Multi-Agent Orchestration**, **Model Context Protocol (MCP)**, and **RAG Pipeline Systems**.
 > 
@@ -61,6 +63,13 @@
 
 <div align="center">
 
+### 🎨 UI/UX Design & Frontend Excellence
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma,flutter,dart,ts,js,react,nextjs,html,css,tailwind&theme=dark" alt="UI UX & Frontend Stack" />
+</a>
+
+<br/><br/>
+
 ### 🤖 AI & Agentic Engineering
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,openai,postman,docker&theme=dark" alt="AI Tech Stack" />
@@ -68,16 +77,9 @@
 
 <br/><br/>
 
-### 📱 Mobile & Frontend Ecosystem
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,react,nextjs,html,css,tailwind&theme=dark" alt="Frontend Tech Stack" />
-</a>
-
-<br/><br/>
-
 ### ⚙️ Backend, Databases & DevOps
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,postgres,mongodb,firebase,git,github,vscode,figma&theme=dark" alt="Backend Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,postgres,mongodb,firebase,git,github,vscode&theme=dark" alt="Backend Tech Stack" />
 </a>
 
 </div>
