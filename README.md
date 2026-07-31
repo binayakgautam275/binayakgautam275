@@ -12,9 +12,9 @@
 
 <br/><br/>
 
-### Co-Founder @ kkkahne | System Architect & Full Stack Engineer | UI/UX Specialist
+### Co-Founder @ kkkahne | Agentic Engineer & System Architect | UI/UX Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Software+Architect+coding+with+Claude+%26+Antigravity;Building+Project+Malgadi+for+the+Nepal+Market;Crafting+Intuitive+UI%2FUX+%26+Clean+Architecture;Building+Cross-Platform+Flutter+Apps+%26+Node.js+Backends)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=740&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Agentic+Engineer+directing+Claude+%26+Antigravity;Building+Project+Malgadi+for+the+Nepal+Market;Crafting+Intuitive+UI%2FUX+%26+Clean+Architecture;Building+Cross-Platform+Flutter+Apps+%26+Node.js+Backends)](https://git.io/typing-svg)
 
 <br/>
 
@@ -43,10 +43,10 @@
 
 ## About Me
 
-- **Identity**: **Binayak Gautam** — **Co-Founder** of **[kkkahne](https://www.kkkhane.com)**, **Software Architect**, **Full Stack Developer**, and **UI/UX Specialist**.
+- **Identity**: **Binayak Gautam** — **Co-Founder** of **[kkkahne](https://www.kkkhane.com)**, **Agentic Engineer**, **System Architect**, **Full Stack Developer**, and **UI/UX Specialist**.
 - **Co-Founder @ [kkkahne](https://www.kkkhane.com)**: Leading product engineering for our enterprise **Restaurant & Hotel Management System** live at **[www.kkkhane.com](https://www.kkkhane.com)**.
 - **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)**: Building a cross-platform mobile application using **Flutter & Dart**, codenamed *Project Malgadi*, engineered for the **Nepal market**.
-- **Software Architecture & AI Coding**: Designing software architectures, database schemas, and system workflows, while leveraging **Claude** & **Antigravity** as AI coding partners to build scalable applications at maximum speed.
+- **Agentic Engineering**: Practicing a disciplined software development approach where I direct semi-autonomous AI coding agents (**Claude**, **Antigravity**) that write, execute, test, and refine production-grade code at maximum speed.
 - **Cloud Infrastructure**: Architecting serverless backend pipelines and real-time database deployments leveraging **Supabase** (Auth, Realtime, Postgres) and **Vercel**.
 - **UI/UX Design**: Designing user interfaces, wireframes, design systems, and responsive layouts using **Figma**, Tailwind CSS, and Flutter.
 - **Core Engineering**: Cross-platform mobile development with **Flutter/Dart** and backend microservices with **Node.js, TypeScript, PostgreSQL, and Supabase**.
@@ -64,11 +64,11 @@
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/Anthropic_Claude_%26_Antigravity-AI_Coding_%26_System_Architecture-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI Architecture" />
+        <img src="https://img.shields.io/badge/Anthropic_Claude_%26_Antigravity-Certified_Agentic_Engineer-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Agentic Engineering Certification" />
         <br/><br/>
-        <b>System Architecture & AI Coding with Claude & Antigravity</b>
+        <b>Agentic Engineering & System Architecture</b>
         <br/>
-        <sub>Specialized in designing software systems and leveraging Claude 3.5 Sonnet & Antigravity for high-speed coding</sub>
+        <sub>Specialized in directing semi-autonomous AI agents (Claude 3.5 Sonnet & Antigravity) to write, test, and refine production code</sub>
       </td>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/Flutter_%26_Dart-Certified_Mobile_Architect-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Certification" />
@@ -92,7 +92,7 @@
 
 <div align="center">
 
-### AI Coding Tools & Partners
+### Agentic AI & AI Coding Agents
 <p align="center">
   <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
   <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
@@ -187,7 +187,7 @@
     <img src="https://img.shields.io/badge/Website-kkkhane.com-FF6F61?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   <a href="mailto:gautambinaytak111@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gautambinaytak111%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-gautambinaytak111%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/binayakgautam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Binayak_Gautam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
