@@ -1,17 +1,24 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,45,10&height=220&section=header&text=Hi%20there,%20I'm%20Binayak%20Gautam%20👋&fontSize=38&animation=twinkling&fontColor=ffffff" width="100%" alt="Header Banner" />
+<!-- 3D Animated Top Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,45,10,40,70&height=250&section=header&text=✨%20BINAYAK%20GAUTAM%20✨&fontSize=42&animation=twinkling&fontColor=ffffff" width="100%" alt="Header Banner" />
 
 <br/>
 
-### 🚀 Co-Founder @ kkkahne | Agentic AI & Full Stack Engineer
+<!-- 3D Trophies Header -->
+<a href="https://github.com/binayakgautam275">
+  <img src="https://github-profile-trophy.vercel.app/?username=binayakgautam275&theme=dracula&no-frame=true&no-bg=true&column=6&margin-w=15" alt="GitHub Trophies" />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=660&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Building+Stealth+Mobile+App+to+Capture+Nepal+Market+%F0%9F%87%B3%F0%9F%87%B5;Building+Autonomous+AI+Agents+%26+Agentic+Workflows;Architecting+scalable+backends+with+NestJS+%26+TypeScript;Passionate+about+Clean+Architecture+%26+AI+Systems+%E2%9A%A1)](https://git.io/typing-svg)
+<br/><br/>
+
+### ⚡ Agentic AI Engineer & Co-Founder @ kkkahne ⚡
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Building+Stealth+Mobile+App+to+Capture+Nepal+Market+%F0%9F%87%B3%F0%9F%87%B5;Architecting+Autonomous+AI+Agents+%26+Agentic+Workflows;Building+Cross-Platform+Flutter+Apps+%26+NestJS+Backends;Passionate+about+Clean+Architecture+%26+AI+Innovation+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Quick Social Links -->
+<!-- Glowing 3D Social Buttons -->
 <p align="center">
   <a href="https://github.com/binayakgautam275" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -24,72 +31,82 @@
   </a>
 </p>
 
----
+<!-- Animated Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 
 </div>
 
-## 📌 About Me
+<br/>
 
-> 👋 **Hi, I'm Binayak Gautam** — **Co-Founder** of **[kkkahne](https://github.com/binayakgautam275/kkkahne)**, **Agentic AI Engineer**, and **Full Stack Developer** driven by building intelligent, scalable enterprise software.
-> 
-> 🚀 As Co-Founder of **kkkahne**, I lead the development of our flagship **Restaurant & Hotel Management System**, empowering hospitality businesses with automated POS billing, room bookings, table reservations, and inventory intelligence.
-> 
-> 🇳🇵 🤫 **Currently in Stealth**: Building a groundbreaking mobile application using **Flutter & Dart**, engineered specifically to capture and transform the **Nepal market**!
-> 
-> 🤖 I specialize in **Autonomous AI Agents**, **Multi-Agent Workflows**, **Model Context Protocol (MCP)**, and **RAG architectures**, bringing cutting-edge AI capabilities to production.
-> 
-> 💻 My tech stack centers around cross-platform mobile engineering with **Flutter & Dart**, paired with enterprise microservices on **NestJS, TypeScript, and PostgreSQL**. 
+## 🌌 About Me & Vision
+
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+
+👋 **Hi, I'm Binayak Gautam** — **Co-Founder** of **[kkkahne](https://github.com/binayakgautam275/kkkahne)**, **Agentic AI Engineer**, and **Full Stack Mobile/Web Developer**.
+
+- 👑 **Co-Founder @ kkkahne**: Leading product & technology for our enterprise **Restaurant & Hotel Management System**.
+- 🇳🇵 🤫 **Stealth Mobile App**: Building a revolutionary **Flutter & Dart** application designed specifically to capture and scale across the **Nepal market**.
+- 🤖 **Agentic AI Specialist**: Architecting **Autonomous AI Agents**, **Multi-Agent Orchestration**, **Model Context Protocol (MCP)**, and **RAG Pipeline Systems**.
+- 💻 **Engineering Stack**: Cross-platform **Flutter/Dart** mobile development coupled with resilient microservices on **NestJS, TypeScript, and PostgreSQL**.
+
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6cXR1b3V2Z2k4eHJxYmw0aTRuZ244cm42ODdvc2F0eWhxeXg4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4VPAIrvg/giphy.gif" width="100%" style="border-radius:12px;" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-## 🛠️ Tech Stack & Skills
-
-<p align="center">
-  <!-- AI & Agentic Stack -->
-  <img src="https://img.shields.io/badge/Agentic_AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  
-  <br/>
-
-  <!-- Mobile & Frontend -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  
-  <br/>
-  
-  <!-- Backend & Database -->
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  
-  <br/>
-  
-  <!-- DevOps & Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
+<!-- Animated Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 
 <br/>
 
-## 📊 GitHub Analytics & Activity
+## 🛠️ 3D Tech Stack & Arsenal
 
 <div align="center">
+
+### 🤖 AI & Agentic Engineering
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,openai,postman,docker&theme=dark" alt="AI Tech Stack" />
+</a>
+
+<br/><br/>
+
+### 📱 Mobile & Frontend Ecosystem
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,react,nextjs,html,css,tailwind&theme=dark" alt="Frontend Tech Stack" />
+</a>
+
+<br/><br/>
+
+### ⚙️ Backend, Databases & DevOps
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,postgres,mongodb,firebase,git,github,vscode,figma&theme=dark" alt="Backend Tech Stack" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- Animated Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+
+<br/>
+
+## 📊 Live Analytics & Activity Dashboard
+
+<div align="center">
+
   <table border="0">
     <tr>
-      <td>
+      <td align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=binayakgautam275&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="410" />
       </td>
-      <td>
+      <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binayakgautam275&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="410" />
       </td>
     </tr>
@@ -97,35 +114,63 @@
   
   <br/>
   
+  <!-- Flame Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=binayakgautam275&theme=tokyonight&hide_border=true" alt="Streak Stats" width="830" />
+
+  <br/><br/>
+
+  <!-- Dynamic Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=binayakgautam275&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+
 </div>
+
+<br/>
+
+<!-- Animated Contribution Snake -->
+<div align="center">
+  <h3>🐍 GitHub Contribution Grid Animation</h3>
+  <img src="https://raw.githubusercontent.com/binayakgautam275/binayakgautam275/main/github-user-contribution.svg" alt="Snake Animation" width="100%" onerror="this.src='https://svg.template-snake.workers.dev/binayakgautam275';" />
+</div>
+
+<br/>
+
+<!-- Animated Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 
 <br/>
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Repository |
+| Project | Description | Tech Stack | Status / Repository |
 | :--- | :--- | :--- | :---: |
-| 🤫 **Stealth Mobile App** | *(In Active Development)* Next-gen mobile app engineered with Flutter & Dart to revolutionize the Nepal market. | `Flutter` `Dart` `REST API` | 🇳🇵 *Stealth Mode* |
-| 🏨 **[kkkahne](https://github.com/binayakgautam275/kkkahne)** | Restaurant & Hotel Management Software with intelligent automated booking & POS workflows. | `Flutter` `TypeScript` `NestJS` `PostgreSQL` | [🔗 View Code](https://github.com/binayakgautam275/kkkahne) |
-| 🛒 **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)** | Full-stack monorepo featuring a Flutter mobile application & NestJS backend microservices. | `Flutter` `Dart` `NestJS` `TypeScript` `PostgreSQL` | [🔗 View Code](https://github.com/binayakgautam275/Project-malgadi) |
+| 🇳🇵 🤫 **Stealth Mobile App** | *(In Active Development)* Next-gen Flutter/Dart app engineered to capture & transform the Nepal market. | `Flutter` `Dart` `REST API` | 🚀 *Stealth Mode* |
+| 🏨 **[kkkahne](https://github.com/binayakgautam275/kkkahne)** | Restaurant & Hotel Management Software with automated POS billing, bookings & inventory. | `Flutter` `TypeScript` `NestJS` `PostgreSQL` | [🔗 View Code](https://github.com/binayakgautam275/kkkahne) |
+| 🛒 **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)** | Full-stack monorepo featuring a Flutter mobile application & NestJS backend services. | `Flutter` `Dart` `NestJS` `PostgreSQL` | [🔗 View Code](https://github.com/binayakgautam275/Project-malgadi) |
 
 <br/>
 
 ## 🤝 Connect with Me
 
-<p align="left">
-📬 Got a question, collaboration proposal, or project idea? Feel free to reach out!
+<p align="center">
+  📬 <b>Let's build something extraordinary together!</b>
 </p>
 
-- 📧 **Email**: [gautambinaytak111@gmail.com](mailto:gautambinaytak111@gmail.com)
-- 🐙 **GitHub**: [@binayakgautam275](https://github.com/binayakgautam275)
-- 💼 **LinkedIn**: [linkedin.com/in/binayakgautam](https://linkedin.com/in/binayakgautam)
+<p align="center">
+  <a href="mailto:gautambinaytak111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gautambinaytak111%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/binayakgautam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Binayak_Gautam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/binayakgautam275" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-binayakgautam275-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ by Binayak Gautam • Star ⭐ my repositories if you find them helpful!</sub>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,45,10&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <sub>Designed with 🔥 & ❤️ by Binayak Gautam • Star ⭐ my repositories if you find them inspiring!</sub>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,45,10,40,70&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
