@@ -12,9 +12,9 @@
 
 <br/><br/>
 
-### Co-Founder @ kkkahne | Agentic AI Architect & Full Stack Engineer | UI/UX Specialist
+### Co-Founder @ kkkahne | Full Stack Engineer & UI/UX Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Agentic+AI+Architect+%26+Full+Stack+Engineer;Building+Project+Malgadi+for+the+Nepal+Market;Crafting+Intuitive+UI%2FUX+%26+Clean+Architecture;Building+Cross-Platform+Flutter+Apps+%26+Node.js+Backends)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;AI-Assisted+Software+Architect+using+Claude;Building+Project+Malgadi+for+the+Nepal+Market;Crafting+Intuitive+UI%2FUX+%26+Clean+Architecture;Building+Cross-Platform+Flutter+Apps+%26+Node.js+Backends)](https://git.io/typing-svg)
 
 <br/>
 
@@ -43,11 +43,11 @@
 
 ## About Me
 
-- **Identity**: **Binayak Gautam** — **Co-Founder** of **[kkkahne](https://www.kkkhane.com)**, **Agentic AI Architect**, **Full Stack Developer**, and **UI/UX Specialist**.
+- **Identity**: **Binayak Gautam** — **Co-Founder** of **[kkkahne](https://www.kkkhane.com)**, **Full Stack Developer**, **UI/UX Specialist**, and **AI-Assisted Software Architect**.
 - **Co-Founder @ [kkkahne](https://www.kkkhane.com)**: Leading product engineering for our enterprise **Restaurant & Hotel Management System** live at **[www.kkkhane.com](https://www.kkkhane.com)**.
 - **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)**: Building a cross-platform mobile application using **Flutter & Dart**, codenamed *Project Malgadi*, engineered for the **Nepal market**.
+- **AI-Assisted Development**: Leveraging advanced AI tools (**Claude**, **Antigravity**, **GPT-4**) to architect systems, generate clean production codebases, and accelerate software engineering workflows.
 - **Cloud Infrastructure**: Architecting serverless backend pipelines and real-time database deployments leveraging **Supabase** (Auth, Realtime, Postgres) and **Vercel**.
-- **Agentic AI & System Architecture**: Harnessing cutting-edge AI models (**Claude**, **GPT-4**, **DeepSeek**) and agentic development systems (**Antigravity**) to design complex software architectures, orchestrate automated workflows, and accelerate production engineering.
 - **UI/UX Design**: Designing user interfaces, wireframes, design systems, and responsive layouts using **Figma**, Tailwind CSS, and Flutter.
 - **Core Engineering**: Cross-platform mobile development with **Flutter/Dart** and backend microservices with **Node.js, TypeScript, PostgreSQL, and Supabase**.
 
@@ -64,11 +64,11 @@
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/Anthropic_Claude_%26_Antigravity-Certified_Agentic_AI_Architect-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI Certification" />
+        <img src="https://img.shields.io/badge/Anthropic_Claude_%26_Antigravity-AI_Assisted_Software_Architecture-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI Architecture" />
         <br/><br/>
-        <b>Anthropic Claude & Antigravity Agentic AI Architecture</b>
+        <b>Anthropic Claude & Antigravity AI-Assisted Architecture</b>
         <br/>
-        <sub>Specialized in Claude 3.5 Sonnet, Antigravity Agentic Workflows, Tool Calling, and Multi-Agent Orchestration</sub>
+        <sub>Specialized in leveraging Claude 3.5 Sonnet and Antigravity workflows for high-speed software development</sub>
       </td>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/Flutter_%26_Dart-Certified_Mobile_Architect-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Certification" />
@@ -92,15 +92,15 @@
 
 <div align="center">
 
-### Agentic AI & AI-Assisted Architecture
+### AI-Assisted Development & Tools
 <p align="center">
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
   <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
   <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPT-4" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,openai,vscode,docker,postman&theme=dark" alt="Agentic AI Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,openai,vscode,docker,postman&theme=dark" alt="AI Development Tech Stack" />
 </a>
 
 <br/><br/>
