@@ -30,12 +30,13 @@
 
 ## 📌 About Me
 
-- 👨‍💻 **Role**: **Agentic AI Engineer** & **Full Stack Developer**
-- 🤖 **AI & Autonomous Systems**: Building multi-agent workflows, tool-calling (MCP), RAG systems, and LLM-powered applications
-- 📱 **Mobile & Backend Engineering**: Architecting cross-platform apps with **Flutter** & scalable microservices with **NestJS / TypeScript**
-- 🏨 **Featured Software**: Creator of **[kkkhane](https://github.com/binayakgautam275/kkkhane)** (Complete Restaurant & Hotel Management System) and **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)**
-- ⚡ **Current Focus**: Designing high-performance AI agents and enterprise-grade software architectures
-- ☕ **Fun Fact**: I turn complex real-world challenges into clean, maintainable, and automated software solutions!
+> 👋 **Hi, I'm Binayak Gautam** — an **Agentic AI Engineer** and **Full Stack Developer** driven by creating intelligent, scalable, and high-performance digital products.
+> 
+> 🤖 I specialize in **Autonomous AI Agents**, **Multi-Agent Workflows**, **Model Context Protocol (MCP)**, and **RAG architectures**, empowering modern applications with AI decision-making and seamless automation.
+> 
+> 💻 On the engineering side, I build cross-platform mobile experiences using **Flutter & Dart**, paired with resilient backend services built on **NestJS, TypeScript, and PostgreSQL**. 
+> 
+> 🚀 I am the creator of **[kkkhane](https://github.com/binayakgautam275/kkkhane)** (a comprehensive Restaurant & Hotel Management Software) and **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)**. I love solving real-world problems with clean code, modern architecture, and innovative AI solutions!
 
 <br/>
 
