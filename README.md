@@ -64,18 +64,17 @@
 <div align="center">
 
 ### 🤖 Agentic AI & AI-Assisted Architecture
+<p align="center">
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
+  <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPT-4" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-00F0FF?style=for-the-badge&logo=ai&logoColor=black" alt="Agentic Workflows" />
+  <img src="https://img.shields.io/badge/System_Architecture-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="System Architecture" />
+</p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,openai,postman,docker,vscode&theme=dark" alt="Agentic AI Tech Stack" />
 </a>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Agentic_Workflows-00F0FF?style=for-the-badge&logo=ai&logoColor=black" alt="Agentic Workflows" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=for-the-badge&logo=sparkles&logoColor=white" alt="Prompt Engineering" />
-</p>
 
-<br/>
+<br/><br/>
 
 ### 🎨 UI/UX Design & Frontend Excellence
 <a href="https://skillicons.dev">
