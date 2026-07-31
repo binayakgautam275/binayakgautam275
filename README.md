@@ -30,31 +30,12 @@
 
 ## 📌 About Me
 
-```javascript
-const binayak = {
-    name: "Binayak Gautam",
-    username: "binayakgautam275",
-    title: "Agentic AI Engineer & Full Stack Developer",
-    coreLanguages: ["Python", "TypeScript", "Dart", "JavaScript", "SQL"],
-    aiAndAgentic: {
-        paradigms: ["Autonomous Agents", "Multi-Agent Systems", "Tool-Calling & MCP", "RAG Systems"],
-        toolsAndSDKs: ["OpenAI API", "LangChain", "LlamaIndex", "Vector DBs"]
-    },
-    frameworks: {
-        mobile: ["Flutter", "Dart Ecosystem"],
-        backend: ["NestJS", "Node.js", "Express.js", "FastAPI"],
-        frontend: ["React", "Next.js", "TailwindCSS"]
-    },
-    keyProjects: [
-        "kkkhane - Restaurant & Hotel Management Software",
-        "Project Malgadi - E-Commerce & Logistics Platform"
-    ],
-    databases: ["PostgreSQL", "MongoDB", "Pinecone/Qdrant", "Firebase"],
-    tools: ["Git", "GitHub", "Docker", "VS Code", "Postman"],
-    currentFocus: "Architecting cutting-edge Agentic AI workflows & enterprise software 🤖⚡",
-    funFact: "I teach AI agents how to write clean code and automate complex workflows! 💻🤖"
-};
-```
+- 👨‍💻 **Role**: **Agentic AI Engineer** & **Full Stack Developer**
+- 🤖 **AI & Autonomous Systems**: Building multi-agent workflows, tool-calling (MCP), RAG systems, and LLM-powered applications
+- 📱 **Mobile & Backend Engineering**: Architecting cross-platform apps with **Flutter** & scalable microservices with **NestJS / TypeScript**
+- 🏨 **Featured Software**: Creator of **[kkkhane](https://github.com/binayakgautam275/kkkhane)** (Complete Restaurant & Hotel Management System) and **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)**
+- ⚡ **Current Focus**: Designing high-performance AI agents and enterprise-grade software architectures
+- ☕ **Fun Fact**: I turn complex real-world challenges into clean, maintainable, and automated software solutions!
 
 <br/>
 
