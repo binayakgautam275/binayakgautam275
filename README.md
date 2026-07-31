@@ -5,9 +5,9 @@
 
 <br/>
 
-### 🚀 Agentic AI Engineer | Mobile & Full Stack Specialist
+### 🚀 Co-Founder @ kkkahne | Agentic AI & Full Stack Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=620&lines=Building+Autonomous+AI+Agents+%26+Agentic+Workflows;Building+cross-platform+mobile+apps+with+Flutter;Architecting+scalable+backends+with+NestJS+%26+TypeScript;Creator+of+kkkhane+-+Restaurant+%26+Hotel+Management;Passionate+about+Clean+Architecture+%26+AI+Systems+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=640&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Building+Autonomous+AI+Agents+%26+Agentic+Workflows;Building+cross-platform+mobile+apps+with+Flutter;Architecting+scalable+backends+with+NestJS+%26+TypeScript;Passionate+about+Clean+Architecture+%26+AI+Systems+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,13 +30,13 @@
 
 ## 📌 About Me
 
-> 👋 **Hi, I'm Binayak Gautam** — an **Agentic AI Engineer** and **Full Stack Developer** driven by creating intelligent, scalable, and high-performance digital products.
+> 👋 **Hi, I'm Binayak Gautam** — **Co-Founder** of **[kkkahne](https://github.com/binayakgautam275/kkkahne)**, **Agentic AI Engineer**, and **Full Stack Developer** driven by building intelligent, scalable enterprise software.
 > 
-> 🤖 I specialize in **Autonomous AI Agents**, **Multi-Agent Workflows**, **Model Context Protocol (MCP)**, and **RAG architectures**, empowering modern applications with AI decision-making and seamless automation.
+> 🚀 As Co-Founder of **kkkahne**, I lead the development of our flagship **Restaurant & Hotel Management System**, empowering hospitality businesses with automated POS billing, room bookings, table reservations, and inventory intelligence.
 > 
-> 💻 On the engineering side, I build cross-platform mobile experiences using **Flutter & Dart**, paired with resilient backend services built on **NestJS, TypeScript, and PostgreSQL**. 
+> 🤖 I specialize in **Autonomous AI Agents**, **Multi-Agent Workflows**, **Model Context Protocol (MCP)**, and **RAG architectures**, bringing cutting-edge AI capabilities to production.
 > 
-> 🚀 I am the creator of **[kkkhane](https://github.com/binayakgautam275/kkkhane)** (a comprehensive Restaurant & Hotel Management Software) and **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)**. I love solving real-world problems with clean code, modern architecture, and innovative AI solutions!
+> 💻 My tech stack centers around cross-platform mobile engineering with **Flutter & Dart**, paired with enterprise microservices on **NestJS, TypeScript, and PostgreSQL**. 
 
 <br/>
 
@@ -104,7 +104,7 @@
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| 🏨 **[kkkhane](https://github.com/binayakgautam275/kkkhane)** | Complete Restaurant & Hotel Management Software with intelligent automated booking & POS workflows. | `Flutter` `TypeScript` `NestJS` `PostgreSQL` | [🔗 View Code](https://github.com/binayakgautam275/kkkhane) |
+| 🏨 **[kkkahne](https://github.com/binayakgautam275/kkkahne)** | Restaurant & Hotel Management Software with intelligent automated booking & POS workflows. | `Flutter` `TypeScript` `NestJS` `PostgreSQL` | [🔗 View Code](https://github.com/binayakgautam275/kkkahne) |
 | 🛒 **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)** | Full-stack monorepo featuring a Flutter mobile application & NestJS backend microservices. | `Flutter` `Dart` `NestJS` `TypeScript` `PostgreSQL` | [🔗 View Code](https://github.com/binayakgautam275/Project-malgadi) |
 
 <br/>
