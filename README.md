@@ -64,40 +64,6 @@
 
 <br/>
 
-## Certifications & Specializations
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://www.anthropic.com/claude" target="_blank">
-          <img src="https://img.shields.io/badge/Anthropic_Claude_%26_Antigravity-Certified_Agentic_Engineer-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude Certification" />
-        </a>
-        <br/><br/>
-        <b><a href="https://www.anthropic.com/claude" target="_blank">Anthropic Claude & Antigravity Architecture</a></b>
-        <br/>
-        <sub>Specialized in directing semi-autonomous AI agents (Claude 3.5 Sonnet & Antigravity) to write, test, and refine production code</sub>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://flutter.dev" target="_blank">
-          <img src="https://img.shields.io/badge/Flutter_%26_Dart-Certified_Mobile_Architect-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Mobile Architecture" />
-        </a>
-        <br/><br/>
-        <b><a href="https://flutter.dev" target="_blank">Flutter & Cross-Platform Mobile Engineering</a></b>
-        <br/>
-        <sub>Specialized in Clean Architecture, BLoC State Management & Enterprise Mobile Systems</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
-
-<br/>
-
 ## Tech Stack & Tools
 
 <div align="center">
