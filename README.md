@@ -7,7 +7,7 @@
 
 ### 🚀 Co-Founder @ kkkahne | Agentic AI & Full Stack Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=640&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Building+Autonomous+AI+Agents+%26+Agentic+Workflows;Building+cross-platform+mobile+apps+with+Flutter;Architecting+scalable+backends+with+NestJS+%26+TypeScript;Passionate+about+Clean+Architecture+%26+AI+Systems+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=660&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Building+Stealth+Mobile+App+to+Capture+Nepal+Market+%F0%9F%87%B3%F0%9F%87%B5;Building+Autonomous+AI+Agents+%26+Agentic+Workflows;Architecting+scalable+backends+with+NestJS+%26+TypeScript;Passionate+about+Clean+Architecture+%26+AI+Systems+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
@@ -33,6 +33,8 @@
 > 👋 **Hi, I'm Binayak Gautam** — **Co-Founder** of **[kkkahne](https://github.com/binayakgautam275/kkkahne)**, **Agentic AI Engineer**, and **Full Stack Developer** driven by building intelligent, scalable enterprise software.
 > 
 > 🚀 As Co-Founder of **kkkahne**, I lead the development of our flagship **Restaurant & Hotel Management System**, empowering hospitality businesses with automated POS billing, room bookings, table reservations, and inventory intelligence.
+> 
+> 🇳🇵 🤫 **Currently in Stealth**: Building a groundbreaking mobile application using **Flutter & Dart**, engineered specifically to capture and transform the **Nepal market**!
 > 
 > 🤖 I specialize in **Autonomous AI Agents**, **Multi-Agent Workflows**, **Model Context Protocol (MCP)**, and **RAG architectures**, bringing cutting-edge AI capabilities to production.
 > 
@@ -104,6 +106,7 @@
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
+| 🤫 **Stealth Mobile App** | *(In Active Development)* Next-gen mobile app engineered with Flutter & Dart to revolutionize the Nepal market. | `Flutter` `Dart` `REST API` | 🇳🇵 *Stealth Mode* |
 | 🏨 **[kkkahne](https://github.com/binayakgautam275/kkkahne)** | Restaurant & Hotel Management Software with intelligent automated booking & POS workflows. | `Flutter` `TypeScript` `NestJS` `PostgreSQL` | [🔗 View Code](https://github.com/binayakgautam275/kkkahne) |
 | 🛒 **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)** | Full-stack monorepo featuring a Flutter mobile application & NestJS backend microservices. | `Flutter` `Dart` `NestJS` `TypeScript` `PostgreSQL` | [🔗 View Code](https://github.com/binayakgautam275/Project-malgadi) |
 
