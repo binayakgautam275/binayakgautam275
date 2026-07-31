@@ -14,7 +14,7 @@
 
 ### ⚡ Agentic AI & Full Stack Engineer | UI/UX Design Specialist ⚡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Building+Project+Malgadi+to+Capture+Nepal+Market+%F0%9F%87%B3%F0%9F%87%B5;Pioneering+Agentic+AI+Coding+%26+System+Architecture;Crafting+Intuitive+UI%2FUX+%26+Pixel-Perfect+Experiences;Building+Cross-Platform+Flutter+Apps+%26+NestJS+Backends;Passionate+about+Clean+Architecture+%26+AI+Innovation+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Building+Project+Malgadi+to+Capture+Nepal+Market+%F0%9F%87%B3%F0%9F%87%B5;Pioneering+Agentic+AI+Coding+%26+System+Architecture;Cloud+Excellence+with+Supabase+%26+Vercel;Crafting+Intuitive+UI%2FUX+%26+Pixel-Perfect+Experiences;Building+Cross-Platform+Flutter+Apps+%26+NestJS+Backends;Passionate+about+Clean+Architecture+%26+AI+Innovation+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
@@ -49,11 +49,13 @@
 > 
 > 🇳🇵 📱 **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)**: Building a revolutionary cross-platform mobile application using **Flutter & Dart**, codenamed *Project Malgadi*, engineered specifically to capture and scale across the **Nepal market**!
 > 
+> ☁️ **Cloud & Database Excellence**: Building scalable serverless infrastructures, real-time database architecture, and edge deployments leveraging **Supabase** (Auth, Realtime, Postgres) and **Vercel** serverless pipelines.
+> 
 > 🧠 **Agentic AI & System Architecture**: Harnessing cutting-edge AI models (**Claude**, **GPT-4**, **DeepSeek**) and agentic workflows to design complex software architectures, orchestrate automated development, and accelerate production engineering.
 > 
 > 🎨 **UI/UX Design Expert**: Crafting pixel-perfect user interfaces, wireframes, component design systems, and user-centric interactions using **Figma**, modern CSS/Tailwind, and Flutter UI architecture.
 > 
-> 💻 **Engineering Stack**: Cross-platform **Flutter/Dart** mobile development coupled with resilient microservices on **NestJS, TypeScript, and PostgreSQL**.
+> 💻 **Engineering Stack**: Cross-platform **Flutter/Dart** mobile development coupled with resilient microservices on **NestJS, TypeScript, PostgreSQL, and Supabase**.
 
 <br/>
 
@@ -66,12 +68,21 @@
 
 <div align="center">
 
+### ☁️ Cloud, Serverless & Infrastructure
+<p align="center">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+<br/>
+
 ### 🤖 Agentic AI & AI-Assisted Architecture
 <p align="center">
   <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
   <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPT-4" />
   <img src="https://img.shields.io/badge/Agentic_Workflows-00F0FF?style=for-the-badge&logo=ai&logoColor=black" alt="Agentic Workflows" />
-  <img src="https://img.shields.io/badge/System_Architecture-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="System Architecture" />
 </p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,openai,postman,docker,vscode&theme=dark" alt="Agentic AI Tech Stack" />
@@ -88,7 +99,7 @@
 
 ### ⚙️ Backend, Databases & DevOps
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,postgres,mongodb,firebase,git,github&theme=dark" alt="Backend Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=supabase,vercel,nestjs,nodejs,express,postgres,mongodb,firebase,git,github&theme=dark" alt="Backend Tech Stack" />
 </a>
 
 </div>
@@ -138,7 +149,7 @@
 
 | Project | Description | Tech Stack | Live Links |
 | :--- | :--- | :--- | :---: |
-| 🏨 **[kkkahne](https://www.kkkhane.com)** | Complete Restaurant & Hotel Management Software with automated POS billing, bookings & inventory. | `Flutter` `TypeScript` `NestJS` `PostgreSQL` | [🌐 Live Website](https://www.kkkhane.com) • [🔗 Code](https://github.com/binayakgautam275/kkkahne) |
+| 🏨 **[kkkahne](https://www.kkkhane.com)** | Complete Restaurant & Hotel Management Software with automated POS billing, bookings & inventory. | `Flutter` `TypeScript` `NestJS` `Supabase` `PostgreSQL` | [🌐 Live Website](https://www.kkkhane.com) • [🔗 Code](https://github.com/binayakgautam275/kkkahne) |
 | 📱 **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)** | Next-gen mobile app engineered with Flutter & Dart to capture and scale across the Nepal market. | `Flutter` `Dart` `NestJS` `PostgreSQL` | [🔗 View Code](https://github.com/binayakgautam275/Project-malgadi) |
 
 <br/>
