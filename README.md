@@ -14,7 +14,7 @@
 
 ### Co-Founder @ kkkahne | Agentic AI & Full Stack Engineer | UI/UX Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Building+Project+Malgadi+for+the+Nepal+Market;Agentic+AI+Architect+%26+System+Engineer;Crafting+Intuitive+UI%2FUX+%26+Clean+Architecture;Building+Cross-Platform+Flutter+Apps+%26+NestJS+Backends)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Building+Project+Malgadi+for+the+Nepal+Market;Agentic+AI+Architect+with+Antigravity+%26+Claude;Crafting+Intuitive+UI%2FUX+%26+Clean+Architecture;Building+Cross-Platform+Flutter+Apps+%26+NestJS+Backends)](https://git.io/typing-svg)
 
 <br/>
 
@@ -47,7 +47,7 @@
 - **Co-Founder @ [kkkahne](https://www.kkkhane.com)**: Leading product engineering for our enterprise **Restaurant & Hotel Management System** live at **[www.kkkhane.com](https://www.kkkhane.com)**.
 - **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)**: Building a cross-platform mobile application using **Flutter & Dart**, codenamed *Project Malgadi*, engineered for the **Nepal market**.
 - **Cloud Infrastructure**: Architecting serverless backend pipelines and real-time database deployments leveraging **Supabase** (Auth, Realtime, Postgres) and **Vercel**.
-- **Agentic AI & System Architecture**: Designing AI workflows, system prompts, tool integration (MCP), and agentic pipelines using models like **Claude** and **GPT-4**.
+- **Agentic AI & System Architecture**: Harnessing cutting-edge AI models (**Claude**, **GPT-4**, **DeepSeek**) and agentic development systems (**Antigravity**) to design complex software architectures, orchestrate automated workflows, and accelerate production engineering.
 - **UI/UX Design**: Designing user interfaces, wireframes, design systems, and responsive layouts using **Figma**, Tailwind CSS, and Flutter.
 - **Core Engineering**: Cross-platform mobile development with **Flutter/Dart** and backend microservices with **NestJS, TypeScript, PostgreSQL, and Supabase**.
 
@@ -64,11 +64,11 @@
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/Anthropic_Claude-Certified_Agentic_AI_Architect-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI Certification" />
+        <img src="https://img.shields.io/badge/Anthropic_Claude_%26_Antigravity-Certified_Agentic_AI_Architect-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI Certification" />
         <br/><br/>
-        <b>Anthropic Claude Agentic AI & System Architecture</b>
+        <b>Anthropic Claude & Antigravity Agentic AI Architecture</b>
         <br/>
-        <sub>Specialized in Claude 3.5 Sonnet, Tool Calling, System Prompt Engineering, and Multi-Agent Orchestration</sub>
+        <sub>Specialized in Claude 3.5 Sonnet, Antigravity Agentic Workflows, Tool Calling, and Multi-Agent Orchestration</sub>
       </td>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/Flutter_%26_Dart-Certified_Mobile_Architect-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Certification" />
@@ -94,6 +94,7 @@
 
 ### Agentic AI & AI-Assisted Architecture
 <p align="center">
+  <img src="https://img.shields.io/badge/Antigravity-Google_Agentic_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity AI" />
   <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
   <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPT-4" />
   <img src="https://img.shields.io/badge/Agentic_Workflows-00F0FF?style=for-the-badge&logo=ai&logoColor=black" alt="Agentic Workflows" />
