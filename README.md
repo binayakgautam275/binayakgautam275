@@ -51,6 +51,19 @@
 
 <br/>
 
+## Mission & Future Vision
+
+- **Impactful Software for Nepal & Beyond**: Dedicated to building innovative applications and platforms that transform daily life and empower communities in Nepal while scaling globally.
+- **Building the Largest IT & AI Company**: Leading **OMX Labs** alongside my team to establish Nepal’s largest and most innovative IT enterprise focused on AI-driven software architecture.
+- **AI-Powered Innovation**: Harnessing cutting-edge AI technologies and modern software engineering to solve complex real-world challenges with fresh, game-changing concepts.
+
+<br/>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+
+<br/>
+
 ## Certifications & Specializations
 
 <div align="center">
@@ -156,7 +169,11 @@
 
 <br/>
 
-## Connect
+## Connect & Collaborate
+
+<p align="center">
+  💬 <b>Always open to discussing AI architecture, mobile innovation, and tech partnerships!</b>
+</p>
 
 <p align="center">
   <a href="https://www.kkkhane.com" target="_blank">
