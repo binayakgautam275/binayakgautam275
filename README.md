@@ -12,9 +12,9 @@
 
 <br/><br/>
 
-### Co-Founder @ kkkahne | Agentic AI Architect | Full Stack Engineer | UI/UX Specialist
+### Co-Founder @ kkkahne | Agentic AI Architect & Full Stack Engineer | UI/UX Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Building+Project+Malgadi+for+the+Nepal+Market;Agentic+AI+Architect+with+Antigravity+%26+Claude;Crafting+Intuitive+UI%2FUX+%26+Clean+Architecture;Building+Cross-Platform+Flutter+Apps+%26+Node.js+Backends)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Agentic+AI+Architect+%26+Full+Stack+Engineer;Building+Project+Malgadi+for+the+Nepal+Market;Crafting+Intuitive+UI%2FUX+%26+Clean+Architecture;Building+Cross-Platform+Flutter+Apps+%26+Node.js+Backends)](https://git.io/typing-svg)
 
 <br/>
 
@@ -129,7 +129,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,supabase,postgres,mongodb,firebase&theme=dark" alt="Backend and Database Stack" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,supabase,postgres,mongodb,firebase&theme=dark" alt="Backend and Database Stack" />
 </a>
 
 <br/><br/>
