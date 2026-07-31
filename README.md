@@ -58,21 +58,16 @@
 
 <br/>
 
-## 🛠️ Tech Stack & Featured Platforms
+## 🛠️ 3D Tech Stack & Arsenal
 
 <div align="center">
 
-### ⚡ Featured Platforms & Core Technologies
+### 🤖 Agentic AI & AI-Assisted Architecture
 <p align="center">
   <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPT-4" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-00F0FF?style=for-the-badge&logo=ai&logoColor=black" alt="Agentic Workflows" />
 </p>
-
-<br/>
-
-### 🤖 Agentic AI & AI-Assisted Architecture
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,openai,postman,docker,vscode&theme=dark" alt="Agentic AI Tech Stack" />
 </a>
@@ -86,9 +81,28 @@
 
 <br/><br/>
 
-### ⚙️ Backend, Cloud & Databases
+### 🗄️ Backend & Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=supabase,vercel,nestjs,nodejs,express,postgres,mongodb,firebase,git,github&theme=dark" alt="Backend Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=supabase,nestjs,nodejs,express,postgres,mongodb,firebase&theme=dark" alt="Backend and Database Stack" />
+</a>
+
+<br/><br/>
+
+### ☁️ DevOps & Cloud Infrastructure
+<p align="center">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vercel,docker,git,github&theme=dark" alt="DevOps and Cloud Stack" />
 </a>
 
 </div>
