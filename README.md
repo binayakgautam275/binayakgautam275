@@ -20,6 +20,9 @@
 
 <!-- Glowing Social Buttons -->
 <p align="center">
+  <a href="https://www.kkkhane.com" target="_blank">
+    <img src="https://img.shields.io/badge/kkkhane.com-FF6F61?style=for-the-badge&logo=googlechrome&logoColor=white" alt="kkkhane Website" />
+  </a>
   <a href="https://github.com/binayakgautam275" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -40,13 +43,13 @@
 
 ## 🌌 About Me & Vision
 
-> 👋 **Hi, I'm Binayak Gautam** — **Co-Founder** of **[kkkahne](https://github.com/binayakgautam275/kkkahne)**, **Agentic AI & Software Architect**, **Full Stack Developer**, and **UI/UX Design Specialist**.
+> 👋 **Hi, I'm Binayak Gautam** — **Co-Founder** of **[kkkahne](https://www.kkkhane.com)**, **Agentic AI & Software Architect**, **Full Stack Developer**, and **UI/UX Design Specialist**.
 > 
-> 🧠 **Agentic AI & System Architecture**: Harnessing cutting-edge AI models (**Claude**, **GPT-4**, **DeepSeek**) and agentic workflows to design complex software architectures, orchestrate automated development, and accelerate production engineering.
-> 
-> 👑 **Co-Founder @ kkkahne**: Leading product design & technology for our enterprise **Restaurant & Hotel Management System**.
+> 👑 **Co-Founder @ [kkkahne](https://www.kkkhane.com)**: Leading product design & technology for our enterprise **Restaurant & Hotel Management System** live at **[www.kkkhane.com](https://www.kkkhane.com)**.
 > 
 > 🇳🇵 📱 **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)**: Building a revolutionary cross-platform mobile application using **Flutter & Dart**, codenamed *Project Malgadi*, engineered specifically to capture and scale across the **Nepal market**!
+> 
+> 🧠 **Agentic AI & System Architecture**: Harnessing cutting-edge AI models (**Claude**, **GPT-4**, **DeepSeek**) and agentic workflows to design complex software architectures, orchestrate automated development, and accelerate production engineering.
 > 
 > 🎨 **UI/UX Design Expert**: Crafting pixel-perfect user interfaces, wireframes, component design systems, and user-centric interactions using **Figma**, modern CSS/Tailwind, and Flutter UI architecture.
 > 
@@ -141,10 +144,10 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Repository |
+| Project | Description | Tech Stack | Live Links |
 | :--- | :--- | :--- | :---: |
+| 🏨 **[kkkahne](https://www.kkkhane.com)** | Complete Restaurant & Hotel Management Software with automated POS billing, bookings & inventory. | `Flutter` `TypeScript` `NestJS` `PostgreSQL` | [🌐 Live Website](https://www.kkkhane.com) • [🔗 Code](https://github.com/binayakgautam275/kkkahne) |
 | 📱 **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)** | Next-gen mobile app engineered with Flutter & Dart to capture and scale across the Nepal market. | `Flutter` `Dart` `NestJS` `PostgreSQL` | [🔗 View Code](https://github.com/binayakgautam275/Project-malgadi) |
-| 🏨 **[kkkahne](https://github.com/binayakgautam275/kkkahne)** | Restaurant & Hotel Management Software with automated POS billing, bookings & inventory. | `Flutter` `TypeScript` `NestJS` `PostgreSQL` | [🔗 View Code](https://github.com/binayakgautam275/kkkahne) |
 
 <br/>
 
@@ -155,6 +158,9 @@
 </p>
 
 <p align="center">
+  <a href="https://www.kkkhane.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-kkkhane.com-FF6F61?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
   <a href="mailto:gautambinaytak111@gmail.com">
     <img src="https://img.shields.io/badge/Email-gautambinaytak111%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
