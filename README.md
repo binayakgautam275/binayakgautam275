@@ -14,7 +14,7 @@
 
 ### ⚡ Agentic AI & Full Stack Engineer | UI/UX Design Specialist ⚡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Building+Project+Malgadi+to+Capture+Nepal+Market+%F0%9F%87%B3%F0%9F%87%B5;Pioneering+Agentic+AI+Coding+%26+System+Architecture;Cloud+Excellence+with+Supabase+%26+Vercel;Crafting+Intuitive+UI%2FUX+%26+Pixel-Perfect+Experiences;Building+Cross-Platform+Flutter+Apps+%26+NestJS+Backends;Passionate+about+Clean+Architecture+%26+AI+Innovation+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Building+Project+Malgadi+to+Capture+Nepal+Market+%F0%9F%87%B3%F0%9F%87%B5;Certified+Claude+Agentic+AI+Architect;Cloud+Excellence+with+Supabase+%26+Vercel;Crafting+Intuitive+UI%2FUX+%26+Pixel-Perfect+Experiences;Building+Cross-Platform+Flutter+Apps+%26+NestJS+Backends;Passionate+about+Clean+Architecture+%26+AI+Innovation+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
@@ -50,6 +50,36 @@
 - **Agentic AI & System Architecture**: Harnessing cutting-edge AI models (**Claude**, **GPT-4**, **DeepSeek**) and agentic workflows to design complex software architectures, orchestrate automated development, and accelerate production engineering.
 - **UI/UX Design Expert**: Crafting pixel-perfect user interfaces, wireframes, component design systems, and user-centric interactions using **Figma**, modern CSS/Tailwind, and Flutter UI architecture.
 - **Engineering Stack**: Cross-platform **Flutter/Dart** mobile development coupled with resilient microservices on **NestJS, TypeScript, PostgreSQL, and Supabase**.
+
+<br/>
+
+<!-- Animated Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+
+<br/>
+
+## 📜 Certifications & Specializations
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/Anthropic_Claude-Certified_Agentic_AI_Architect-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI Certification" />
+        <br/><br/>
+        <b>🏆 Anthropic Claude Agentic AI & Prompt Architecture</b>
+        <br/>
+        <sub>Specialized in Claude 3.5 Sonnet, Tool Calling, System Prompt Engineering, and Multi-Agent Orchestration</sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/Flutter_%26_Dart-Certified_Mobile_Architect-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Certification" />
+        <br/><br/>
+        <b>📱 Flutter & Cross-Platform Mobile Engineering</b>
+        <br/>
+        <sub>Specialized in Clean Architecture, BLoC State Management & Enterprise Mobile Systems</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
