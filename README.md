@@ -14,7 +14,7 @@
 
 ### ⚡ Agentic AI & Full Stack Engineer | UI/UX Design Specialist ⚡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Building+Project+Malgadi+to+Capture+Nepal+Market+%F0%9F%87%B3%F0%9F%87%B5;Crafting+Intuitive+UI%2FUX+%26+Pixel-Perfect+Experiences;Architecting+Autonomous+AI+Agents+%26+Agentic+Workflows;Building+Cross-Platform+Flutter+Apps+%26+NestJS+Backends;Passionate+about+Clean+Architecture+%26+AI+Innovation+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=720&lines=Co-Founder+%26+Lead+Engineer+@+kkkahne;Building+Project+Malgadi+to+Capture+Nepal+Market+%F0%9F%87%B3%F0%9F%87%B5;Pioneering+Agentic+AI+Coding+%26+System+Architecture;Crafting+Intuitive+UI%2FUX+%26+Pixel-Perfect+Experiences;Building+Cross-Platform+Flutter+Apps+%26+NestJS+Backends;Passionate+about+Clean+Architecture+%26+AI+Innovation+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
@@ -40,15 +40,15 @@
 
 ## 🌌 About Me & Vision
 
-> 👋 **Hi, I'm Binayak Gautam** — **Co-Founder** of **[kkkahne](https://github.com/binayakgautam275/kkkahne)**, **Agentic AI Engineer**, **Full Stack Developer**, and **UI/UX Design Specialist** driven by crafting seamless user experiences and intelligent enterprise software.
+> 👋 **Hi, I'm Binayak Gautam** — **Co-Founder** of **[kkkahne](https://github.com/binayakgautam275/kkkahne)**, **Agentic AI & Software Architect**, **Full Stack Developer**, and **UI/UX Design Specialist**.
+> 
+> 🧠 **Agentic AI & System Architecture**: Harnessing cutting-edge AI models (**Claude**, **GPT-4**, **DeepSeek**) and agentic workflows to design complex software architectures, orchestrate automated development, and accelerate production engineering.
 > 
 > 👑 **Co-Founder @ kkkahne**: Leading product design & technology for our enterprise **Restaurant & Hotel Management System**.
 > 
 > 🇳🇵 📱 **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)**: Building a revolutionary cross-platform mobile application using **Flutter & Dart**, codenamed *Project Malgadi*, engineered specifically to capture and scale across the **Nepal market**!
 > 
 > 🎨 **UI/UX Design Expert**: Crafting pixel-perfect user interfaces, wireframes, component design systems, and user-centric interactions using **Figma**, modern CSS/Tailwind, and Flutter UI architecture.
-> 
-> 🤖 **Agentic AI Specialist**: Architecting **Autonomous AI Agents**, **Multi-Agent Orchestration**, **Model Context Protocol (MCP)**, and **RAG Pipeline Systems**.
 > 
 > 💻 **Engineering Stack**: Cross-platform **Flutter/Dart** mobile development coupled with resilient microservices on **NestJS, TypeScript, and PostgreSQL**.
 
@@ -63,6 +63,20 @@
 
 <div align="center">
 
+### 🤖 Agentic AI & AI-Assisted Architecture
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,openai,postman,docker,vscode&theme=dark" alt="Agentic AI Tech Stack" />
+</a>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-00F0FF?style=for-the-badge&logo=ai&logoColor=black" alt="Agentic Workflows" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=for-the-badge&logo=sparkles&logoColor=white" alt="Prompt Engineering" />
+</p>
+
+<br/>
+
 ### 🎨 UI/UX Design & Frontend Excellence
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=figma,flutter,dart,ts,js,react,nextjs,html,css,tailwind&theme=dark" alt="UI UX & Frontend Stack" />
@@ -70,16 +84,9 @@
 
 <br/><br/>
 
-### 🤖 AI & Agentic Engineering
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,openai,postman,docker&theme=dark" alt="AI Tech Stack" />
-</a>
-
-<br/><br/>
-
 ### ⚙️ Backend, Databases & DevOps
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,postgres,mongodb,firebase,git,github,vscode&theme=dark" alt="Backend Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,postgres,mongodb,firebase,git,github&theme=dark" alt="Backend Tech Stack" />
 </a>
 
 </div>
