@@ -43,19 +43,13 @@
 
 ## 🌌 About Me & Vision
 
-> 👋 **Hi, I'm Binayak Gautam** — **Co-Founder** of **[kkkahne](https://www.kkkhane.com)**, **Agentic AI & Software Architect**, **Full Stack Developer**, and **UI/UX Design Specialist**.
-> 
-> 👑 **Co-Founder @ [kkkahne](https://www.kkkhane.com)**: Leading product design & technology for our enterprise **Restaurant & Hotel Management System** live at **[www.kkkhane.com](https://www.kkkhane.com)**.
-> 
-> 🇳🇵 📱 **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)**: Building a revolutionary cross-platform mobile application using **Flutter & Dart**, codenamed *Project Malgadi*, engineered specifically to capture and scale across the **Nepal market**!
-> 
-> ☁️ **Cloud & Database Excellence**: Building scalable serverless infrastructures, real-time database architecture, and edge deployments leveraging **Supabase** (Auth, Realtime, Postgres) and **Vercel** serverless pipelines.
-> 
-> 🧠 **Agentic AI & System Architecture**: Harnessing cutting-edge AI models (**Claude**, **GPT-4**, **DeepSeek**) and agentic workflows to design complex software architectures, orchestrate automated development, and accelerate production engineering.
-> 
-> 🎨 **UI/UX Design Expert**: Crafting pixel-perfect user interfaces, wireframes, component design systems, and user-centric interactions using **Figma**, modern CSS/Tailwind, and Flutter UI architecture.
-> 
-> 💻 **Engineering Stack**: Cross-platform **Flutter/Dart** mobile development coupled with resilient microservices on **NestJS, TypeScript, PostgreSQL, and Supabase**.
+- **Identity**: **Binayak Gautam** — **Co-Founder** of **[kkkahne](https://www.kkkhane.com)**, **Agentic AI & Software Architect**, **Full Stack Developer**, and **UI/UX Design Specialist**.
+- **Co-Founder @ [kkkahne](https://www.kkkhane.com)**: Leading product design & technology for our enterprise **Restaurant & Hotel Management System** live at **[www.kkkhane.com](https://www.kkkhane.com)**.
+- **[Project Malgadi](https://github.com/binayakgautam275/Project-malgadi)**: Building a revolutionary cross-platform mobile application using **Flutter & Dart**, codenamed *Project Malgadi*, engineered specifically to capture and scale across the **Nepal market**!
+- **Cloud & Database Excellence**: Building scalable serverless infrastructures, real-time database architecture, and edge deployments leveraging **Supabase** (Auth, Realtime, Postgres) and **Vercel** serverless pipelines.
+- **Agentic AI & System Architecture**: Harnessing cutting-edge AI models (**Claude**, **GPT-4**, **DeepSeek**) and agentic workflows to design complex software architectures, orchestrate automated development, and accelerate production engineering.
+- **UI/UX Design Expert**: Crafting pixel-perfect user interfaces, wireframes, component design systems, and user-centric interactions using **Figma**, modern CSS/Tailwind, and Flutter UI architecture.
+- **Engineering Stack**: Cross-platform **Flutter/Dart** mobile development coupled with resilient microservices on **NestJS, TypeScript, PostgreSQL, and Supabase**.
 
 <br/>
 
