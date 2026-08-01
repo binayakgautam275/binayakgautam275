@@ -5,7 +5,7 @@
 
 <br/>
 
-### Co-Founder @ OMX Labs & kkkahne | Agentic Engineer | Full Stack & Mobile Developer | UI/UX Specialist
+### Co-Founder @ OMX Labs & kkkhane | Agentic Engineer | Full Stack & Mobile Developer | UI/UX Specialist
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=61AFEF&center=true&vCenter=true&width=760&lines=Co-Founder+@+OMX+Labs+%26+kkkahne;Agentic+Engineer+directing+Claude+%26+Antigravity;Full+Stack+%26+Cross-Platform+Mobile+Developer+(Flutter);Building+Project+Malgadi+for+the+Nepal+Market;UI%2FUX+Design+Specialist+%26+System+Architect)](https://git.io/typing-svg)
 
